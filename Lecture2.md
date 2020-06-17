@@ -7,7 +7,7 @@
 ```
 
 
-<img src='https://raw.githubusercontent.com/GarfieldF/RL-Course-by-David-Silver/master/MRP.jpg'  width=600, height=400>
+<img src='MRP.jpg'  width=600, height=400>
 
 
 
@@ -105,7 +105,7 @@ the result of iteration is :
 ```
 
 
-<img src='https://raw.githubusercontent.com/GarfieldF/RL-Course-by-David-Silver/master/MDP.jpg'  width=600, height=400 >
+<img src='MDP.jpg'  width=600, height=400 >
 
 
 
