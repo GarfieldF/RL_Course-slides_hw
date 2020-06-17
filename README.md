@@ -1,5 +1,5 @@
 # RL-Course-by-David-Silver
-python implementation of the example in [David Silver's RL Course](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html) 
+python implementation of the example in [David Silver's RL Course](https://www.davidsilver.uk/teaching/) 
 
 Video: [[Youtube HD]](https://www.youtube.com/watch?v=2pWv7GOvuf0), [[Youtube with CC subtitle]](https://www.youtube.com/watch?v=zMsphnBCpdI&list=UUF0DiTWneggGunOcU2agJjA&index=24) and [[Bilibili with chinese subtitles]](https://www.bilibili.com/video/av45357759/)
 ### Lecture 1: Introduction to Reinforcement Learning 
