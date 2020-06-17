@@ -5,7 +5,7 @@ Video: [[Youtube HD]](https://www.youtube.com/watch?v=2pWv7GOvuf0), [[Youtube wi
 ### Lecture 1: Introduction to Reinforcement Learning 
 
 P24 An example about markov process (MP). Code:[ipynb file](https://github.com/GarfieldF/RL-Course-by-David-Silver/blob/master/Lecture1MP.ipynb)   
-P50 The gridworld example will be implemented in lecture 3.
+P50 The gridworld example will be implemented in [lecture 3](https://github.com/GarfieldF/RL-Course-by-David-Silver/blob/master/Lecture3.ipynb).
 
 ### Lecture 2: Markov Decision Processes  
 Code: [ipynb](https://github.com/GarfieldF/RL-Course-by-David-Silver/blob/master/Lecture2.ipynb) or  [md](https://github.com/GarfieldF/RL-Course-by-David-Silver/blob/master/Lecture2.md)
@@ -17,5 +17,15 @@ Code: [ipynb](https://github.com/GarfieldF/RL-Course-by-David-Silver/blob/master
 1. direct solution by matrix calculation.
 2. The iterative method.
 
+### Lecture 3: Planning by Dynamic Programming
+
+Code: [Gridworld-ipynb](https://github.com/GarfieldF/RL-Course-by-David-Silver/blob/master/Lecture3.ipynb)
+
+- policy evaluation for random policy
+- policy iteration
+- in-place policy itertion
+- value iteration
+- in-place value iteration
+- Comparison about the convergence rate of above method
 
 TO BE CONTINUED.
