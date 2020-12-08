@@ -1,0 +1,9 @@
+*.pyc
+*.npy
+*.npz
+*.txt
+*.egg-info
+*/__pycache__
+.DS_Store
+.ipynb_checkpoints
+*.pth
