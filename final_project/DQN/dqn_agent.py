@@ -196,7 +196,6 @@ class TestAgent:
                 action = self.act(obs)
                 obs, reward, done, _ = self.env.step(action)
                 episode_return += reward
-            print(episode_return)
 
             episode_return_list.append(episode_return)
         info = {'average_return': np.mean(episode_return)}
@@ -222,7 +221,6 @@ class TestAgent:
             self.env.render()
             action = self.act(obs).squeeze(0)
             obs, reward, done, _ = self.env.step(action)
-            print(reward)
             episode_return += reward
             if done:
                 episode += 1
